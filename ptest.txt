@@ -1,0 +1,11 @@
+create table users_data(username varchar(50),email varchar(50),password varchar(50))
+
+insert into users_data
+values('sameer','sameer@gmail.com','sameer');
+
+create table questionData
+(questionId number primary key,
+question varchar2(500),
+correctOption number);
+
+insert into 

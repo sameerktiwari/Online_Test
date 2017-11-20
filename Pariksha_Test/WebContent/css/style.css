@@ -1,0 +1,79 @@
+/*
+* multi-line comment
+*/
+h1 {
+	color: navy;
+}
+
+h2 {
+	color: navy;
+	
+}
+#appId{
+	color: navy;
+	background-color: white;
+}
+
+.container img{
+	width:900;
+	height:400;
+	margin: 20px;
+}
+
+body {
+	text-align: center;
+	float: center;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size:1920px  1080px ;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: blue;
+	text-decoration: underline;
+}
+
+/* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
+
+/* but try and be as concise as possible */
+#nav {
+	width: 80%;
+	display: inline-block;
+	position: relative;
+	margin: 30px;
+}
+
+table{
+	margin-top: 30px;
+	margin-bottom: 100px;
+	text-align: center;
+	align: center;
+	
+}
+
+#footer {
+	margin: 10px;
+}
+
+#footer a {
+	display: inline-block;
+	padding: 10px;
+	background: navy;
+	color: white;
+}
+
+table th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+table td {
+    background-color: white;
+    color: black;
+}
+
+
